@@ -5,7 +5,6 @@ nColumns=19
 inDegrees=yes
 endheader
 time	ground_force_vx	ground_force_vy	ground_force_vz	ground_force_px	ground_force_py	ground_force_pz	1_ground_force_vx	1_ground_force_vy	1_ground_force_vz	1_ground_force_px	1_ground_force_py	1_ground_force_pz	ground_torque_x	ground_torque_y	ground_torque_z	1_ground_torque_x	1_ground_torque_y	1_ground_torque_z	
-0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 0.00041681	-13.834	29.379	-5.7452	-0.52363	0	0.29584	166.53	991.23	-33.25	-1.0598	0	0.4439	0	0.13441	0	0	-33.094	0
 0.00083363	-14.786	37.554	-5.8424	-0.51853	0	0.29217	166.91	991.06	-33.233	-1.0596	0	0.44386	0	0.11022	0	0	-33.112	0
 0.0012504	-14.028	46.327	-4.6375	-0.51863	0	0.29451	167.35	990.87	-32.822	-1.0596	0	0.44394	0	0.15514	0	0	-33.164	0
